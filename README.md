@@ -1,6 +1,6 @@
 - <h2>👋 Hi, I’m Kartvya Acharya</h2>
-- 👀 I’m interested in web and mobile application devlopment
-- 🌱 I’m currently learning react native
+- 👀 I’m currently working as react native devloper in full time role for almost1 year.
+- 🌱 I’m currently learning nodeJs,Expressjs.
 - 📫 You can reach me at kartvyaacharya@gmail.com
 
 <h3 align="left">Connect with me:</h3>
