@@ -1,5 +1,5 @@
 - <h2>👋 Hi, I’m Kartvya Acharya</h2>
-- 👀 I’m currently working as react native devloper in full time role for almost1 year.
+- 👀 I've been employed full-time as a react native developer for almost a year.
 - 🌱 I’m currently learning nodeJs,Expressjs.
 - 📫 You can reach me at kartvyaacharya@gmail.com
 
