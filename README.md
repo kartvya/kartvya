@@ -1,19 +1,17 @@
 - <h2>👋 Hi, I’m Kartvya Acharya</h2>
-- 👀 I've been employed full-time as a react native developer with exp of 2+ years.
-- 🌱 I’m currently learning nodeJs,Expressjs.
-- 📫 You can reach me at kartvyaacharya@gmail.com
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/kartvya-acharya-b054401b7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-</p>
+<h4>React Native developer with 2+ years of industry experience building mobile applications.</h4>
 
+[![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=FFF)](https://www.javascript.com/)
+[![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=FFF)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=FFF)](https://reactjs.org/)
+[![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=FFF)](https://reactnative.dev/)
 
-**Languages and Tools:**  
+<h3>Follow me</h3>
+<a href="https://www.linkedin.com/in/kartvya-acharya-b054401b7/">
+  <img src="https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/kartvya">
+  <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=FFF"/>
+</a>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
