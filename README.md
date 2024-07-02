@@ -21,7 +21,7 @@
     A simple flatlist which is designed to help developers display data in a structured and aesthetically pleasing grid format
   </p>
   <p align="center">
-    <a href="https://www.npmjs.com/package/mx-rn-grid-flashlist"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RichardRNStudio&repo=react-native-slider-intro&theme=dark" /></a>
+    <a href="https://www.npmjs.com/package/mx-rn-grid-flashlist"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kartvya&repo=mx-rn-grid-flashlist&theme=dark" /></a>
   </p>
 </details>
 
