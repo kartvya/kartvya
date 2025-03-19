@@ -25,11 +25,9 @@
   </p>
 </details>
 
-<h3>Follow me</h3>
-<a href="https://www.linkedin.com/in/kartvya-acharya-b054401b7/">
-  <img src="https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/kartvya">
-  <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=FFF"/>
-</a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://linkedin.com/in/dharitri-maharana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/dharitri-maharana" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/dharitrim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dharitrim" height="30" width="40" /></a>
+</p>
 
