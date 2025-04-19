@@ -33,6 +33,21 @@
   </p>
 </details>
 
+<details>
+  <summary>📌 <b>react-native-cleaner-cli</b></summary>
+  <br />
+
+  [![Available on NPM](https://img.shields.io/badge/-Available_on_NPM-CB3837?style=flat&logo=npm&logoColor=FFF)](https://www.npmjs.com/package/mx-rn-grid-flashlist) 
+  [![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=FFF)](https://reactnative.dev/)
+  
+  <p align="center">
+    A fast and smart command-line tool to clean heavy folders, build Android release APKs, and generate zip files for sharing — specially built for React Native developers.
+  </p>
+  <p align="center">
+    <a href="https://www.npmjs.com/package/react-native-cleaner-cli"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kartvya&repo=react-native-cleaner-cli&theme=dark" /></a>
+  </p>
+</details>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kartvya-acharya-b054401b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/dharitri-maharana" height="30" width="40" /></a>
