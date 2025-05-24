@@ -1,6 +1,6 @@
-- <h2>👋 Hi, I’m Kartvya Acharya</h2>
+<h2>👋 Hi, I’m Kartvya Acharya</h2>
 
-<h4>React Native developer with 3+ years of industry experience building mobile applications.</h4>
+<h4>Full Stack Developer specialized in React Native with 3+ years of industry experience building scalable and performant mobile applications. Skilled in building full-stack applications using Node.js, Express, and MongoDB.</h4>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -10,12 +10,15 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="background-color: white; padding: 5px;" /> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-<h2>My Packages</h2>
+<h2>🛠️ My Packages</h2>
 
 <details>
   <summary>📌 <b>mx-rn-grid-flashlist</b></summary>
@@ -26,7 +29,7 @@
   [![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=FFF)](https://www.typescriptlang.org/)
   
   <p align="center">
-    A simple flatlist which is designed to help developers display data in a structured and aesthetically pleasing grid format
+    A performant and customizable FlatList component for displaying data in a responsive grid layout.
   </p>
   <p align="center">
     <a href="https://www.npmjs.com/package/mx-rn-grid-flashlist"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kartvya&repo=mx-rn-grid-flashlist&theme=dark" /></a>
@@ -37,20 +40,19 @@
   <summary>📌 <b>react-native-cleaner-cli</b></summary>
   <br />
 
-  [![Available on NPM](https://img.shields.io/badge/-Available_on_NPM-CB3837?style=flat&logo=npm&logoColor=FFF)](https://www.npmjs.com/package/mx-rn-grid-flashlist) 
+  [![Available on NPM](https://img.shields.io/badge/-Available_on_NPM-CB3837?style=flat&logo=npm&logoColor=FFF)](https://www.npmjs.com/package/react-native-cleaner-cli) 
   [![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=FFF)](https://reactnative.dev/)
   
   <p align="center">
-    A fast and smart command-line tool to clean heavy folders, build Android release APKs, and generate zip files for sharing — specially built for React Native developers.
+    A fast and smart CLI to clean up heavy folders, generate Android release builds, and zip projects for sharing. Perfect tool for React Native workflows.
   </p>
   <p align="center">
     <a href="https://www.npmjs.com/package/react-native-cleaner-cli"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kartvya&repo=react-native-cleaner-cli&theme=dark" /></a>
   </p>
 </details>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📬 Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/kartvya-acharya-b054401b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/dharitri-maharana" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/kartvyaacharya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/kartvya-acharya-b054401b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartvya acharya linkedin" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/kartvyaacharya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kartvya acharya leetcode" height="30" width="40" /></a>
 </p>
-
